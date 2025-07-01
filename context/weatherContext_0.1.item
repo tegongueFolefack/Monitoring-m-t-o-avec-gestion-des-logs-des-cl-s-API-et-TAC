@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_QOtJUFX3EfCEZ7-DqgHDlg" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_QOtJUVX3EfCEZ7-DqgHDlg" comment="" name="apiKey" prompt="apiKey?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="b53d9fb44550625644b22ccbe5456be1"/>
+  <contextParameter xmi:id="_QOtJUlX3EfCEZ7-DqgHDlg" comment="" name="baseURL" prompt="baseURL?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="https://api.openweathermap.org/data/2.5/weather"/>
+  <contextParameter xmi:id="_QOtJU1X3EfCEZ7-DqgHDlg" comment="" name="units" prompt="units?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="metric"/>
+</talendfile:ContextType>

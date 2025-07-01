@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_6wtVkH-mEeyTQuXUw7icSQ" label="DataPrivacy" description="" language="java" technicalLabel="DATAPRIVACY" local="true" author="_6wtVkX-mEeyTQuXUw7icSQ" productVersion="Talend Cloud Data Management Platform-8.0.1.20250625_0954-patch" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_6xmtcH-mEeyTQuXUw7icSQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_6wtVkX-mEeyTQuXUw7icSQ" login="msullivan@vga.talend.com" firstName="Matthew" lastName="Sullivan" type="DQ"/>
+  <TalendProperties:User xmi:id="_bDjtQIAoEeylFaA8KL6yrg" login="ohabushi@vga.talend.com" firstName="Ofer" lastName="Habushi" type="DQ"/>
+  <TalendProperties:User xmi:id="_j8MWsFXuEfCEZ7-DqgHDlg" login="tegonguefolefackf@gmail.com"/>
+</xmi:XMI>

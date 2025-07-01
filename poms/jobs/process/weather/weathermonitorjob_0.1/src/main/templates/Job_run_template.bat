@@ -1,0 +1,3 @@
+%~d0
+cd %~dp0
+java -Dtalend.component.manager.m2.repository=../lib -Xms256M -Xmx1024M -Dfile.encoding=UTF-8 -cp .;../lib/routines.jar;../lib/log4j-api-2.17.1.jar;../lib/log4j-core-2.17.1.jar;../lib/log4j-layout-template-json-2.17.1.jar;../lib/antlr-runtime-3.5.2.jar;../lib/log4j-slf4j2-impl-2.19.0.jar;../lib/talend_file_enhanced-1.3.1.jar;../lib/talendagent-1.0.2.jar;../lib/jboss-marshalling-2.0.12.Final.jar;../lib/org.talend.dataquality.parser.jar;../lib/javassist-3.30.2-GA.jar;../lib/talendboot-1.0.9.jar;../lib/dom4j-2.1.3.jar;../lib/system-routines.jar;../lib/talendCBP-1.1.5.jar;../lib/crypto-utils-7.1.20.jar;../lib/system-routines-dq.jar;../lib/slf4j-api-2.0.16.jar;weathermonitorjob_0_1.jar; dataprivacy.weathermonitorjob_0_1.WeatherMonitorJob %*
