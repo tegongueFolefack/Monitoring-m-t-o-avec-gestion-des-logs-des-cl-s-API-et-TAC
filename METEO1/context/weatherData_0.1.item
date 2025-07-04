@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_lAcpcFflEfCH9dMT1XxWrg" confirmationNeeded="false" hide="false" name="Default">
+    <contextParameter xmi:id="_lAcpcVflEfCH9dMT1XxWrg" comment="" name="apikey" prompt="apikey?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="8aabf66fc11f46bd89590824250307"/>
+    <contextParameter xmi:id="_lAcpclflEfCH9dMT1XxWrg" comment="" name="url" prompt="url?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="http://api.weatherapi.com"/>
+    <contextParameter xmi:id="_lAcpc1flEfCH9dMT1XxWrg" comment="" name="city" prompt="city?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="London"/>
+    <contextParameter xmi:id="_lAcpdFflEfCH9dMT1XxWrg" comment="" name="relative" prompt="relative?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="/v1/current.json"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_APZ1YFinEfCH9dMT1XxWrg" confirmationNeeded="false" hide="true" name="testing">
+    <contextParameter xmi:id="_APZ1YVinEfCH9dMT1XxWrg" comment="" name="apikey" prompt="apikey?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="&quot;8aabf66fc11f46bd89590824250307&quot;"/>
+    <contextParameter xmi:id="_APZ1YlinEfCH9dMT1XxWrg" comment="" name="url" prompt="url?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="&quot;http://api.weatherapi.com&quot;"/>
+    <contextParameter xmi:id="_APZ1Y1inEfCH9dMT1XxWrg" comment="" name="city" prompt="city?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="&quot;London&quot;"/>
+    <contextParameter xmi:id="_APZ1ZFinEfCH9dMT1XxWrg" comment="" name="relative" prompt="relative?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="&quot;/v1/current.json&quot;"/>
+  </talendfile:ContextType>
+</xmi:XMI>
