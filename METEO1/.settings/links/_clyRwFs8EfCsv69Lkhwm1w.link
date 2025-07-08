@@ -1,0 +1,20 @@
+{
+  "itemId" : "_clyRwFs8EfCsv69Lkhwm1w",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_kyK84FflEfCH9dMT1XxWrg",
+    "parameterList" : [ {
+      "id" : "_lAcpcVflEfCH9dMT1XxWrg",
+      "name" : "apikey"
+    }, {
+      "id" : "_lAcpc1flEfCH9dMT1XxWrg",
+      "name" : "city"
+    }, {
+      "id" : "_lAcpdFflEfCH9dMT1XxWrg",
+      "name" : "relative"
+    }, {
+      "id" : "_lAcpclflEfCH9dMT1XxWrg",
+      "name" : "url"
+    } ]
+  } ]
+}

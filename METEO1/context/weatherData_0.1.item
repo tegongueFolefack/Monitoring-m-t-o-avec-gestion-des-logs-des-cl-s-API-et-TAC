@@ -3,7 +3,7 @@
   <talendfile:ContextType xmi:id="_lAcpcFflEfCH9dMT1XxWrg" confirmationNeeded="false" hide="false" name="Default">
     <contextParameter xmi:id="_lAcpcVflEfCH9dMT1XxWrg" comment="" name="apikey" prompt="apikey?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="8aabf66fc11f46bd89590824250307"/>
     <contextParameter xmi:id="_lAcpclflEfCH9dMT1XxWrg" comment="" name="url" prompt="url?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="http://api.weatherapi.com"/>
-    <contextParameter xmi:id="_lAcpc1flEfCH9dMT1XxWrg" comment="" name="city" prompt="city?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="London"/>
+    <contextParameter xmi:id="_lAcpc1flEfCH9dMT1XxWrg" comment="" name="city" prompt="city?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="Paris"/>
     <contextParameter xmi:id="_lAcpdFflEfCH9dMT1XxWrg" comment="" name="relative" prompt="relative?" promptNeeded="true" repositoryContextId="built-in" type="id_String" value="/v1/current.json"/>
   </talendfile:ContextType>
   <talendfile:ContextType xmi:id="_APZ1YFinEfCH9dMT1XxWrg" confirmationNeeded="false" hide="true" name="testing">
