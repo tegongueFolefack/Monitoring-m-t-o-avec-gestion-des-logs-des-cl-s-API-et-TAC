@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMapper="http://www.talend.org/mapper" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default" jobType="Standard">
   <context confirmationNeeded="false" hide="false" name="Default">
-    <contextParameter comment="" name="apikey" prompt="apikey?" promptNeeded="true" repositoryContextId="_kyK84FflEfCH9dMT1XxWrg" type="id_String" value="8aabf66fc11f46bd89590824250307" internalId="_HaY8AFgQEfCH9dMT1XxWrg"/>
-    <contextParameter comment="" name="city" prompt="city?" promptNeeded="true" repositoryContextId="_kyK84FflEfCH9dMT1XxWrg" type="id_String" value="Paris" internalId="_HaY8AVgQEfCH9dMT1XxWrg"/>
-    <contextParameter comment="" name="relative" prompt="relative?" promptNeeded="true" repositoryContextId="_kyK84FflEfCH9dMT1XxWrg" type="id_String" value="/v1/current.json" internalId="_HaY8AlgQEfCH9dMT1XxWrg"/>
-    <contextParameter comment="" name="url" prompt="url?" promptNeeded="true" repositoryContextId="_kyK84FflEfCH9dMT1XxWrg" type="id_String" value="http://api.weatherapi.com" internalId="_HaY8A1gQEfCH9dMT1XxWrg"/>
+    <contextParameter comment="" name="apikey" prompt="apikey?" promptNeeded="false" repositoryContextId="_kyK84FflEfCH9dMT1XxWrg" type="id_String" value="8aabf66fc11f46bd89590824250307" internalId="_HaY8AFgQEfCH9dMT1XxWrg"/>
+    <contextParameter comment="" name="city" prompt="city?" promptNeeded="false" repositoryContextId="_kyK84FflEfCH9dMT1XxWrg" type="id_String" value="Paris" internalId="_HaY8AVgQEfCH9dMT1XxWrg"/>
+    <contextParameter comment="" name="relative" prompt="relative?" promptNeeded="false" repositoryContextId="_kyK84FflEfCH9dMT1XxWrg" type="id_String" value="/v1/current.json" internalId="_HaY8AlgQEfCH9dMT1XxWrg"/>
+    <contextParameter comment="" name="url" prompt="url?" promptNeeded="false" repositoryContextId="_kyK84FflEfCH9dMT1XxWrg" type="id_String" value="http://api.weatherapi.com" internalId="_HaY8A1gQEfCH9dMT1XxWrg"/>
   </context>
   <parameters>
     <elementParameter field="CLOSED_LIST" name="LOG4J_RUN_LEVEL" value="Info" show="false"/>
@@ -296,7 +296,7 @@
       <column comment="" key="false" length="-1" name="precip_mm" nullable="true" pattern="" precision="-1" sourceType="" type="id_Double" originalLength="-1" usefulColumn="true"/>
     </metadata>
     <nodeData xsi:type="TalendMapper:MapperData">
-      <uiProperties shellMaximized="true"/>
+      <uiProperties/>
       <varTables sizeState="INTERMEDIATE" name="Var" minimized="true"/>
       <outputTables sizeState="INTERMEDIATE" name="out1">
         <mapperTableEntries name="temp_c" expression="row21.temp_c " type="id_Double" nullable="true"/>
