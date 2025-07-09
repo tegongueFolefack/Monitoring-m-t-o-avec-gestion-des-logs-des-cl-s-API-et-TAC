@@ -31,4 +31,15 @@
     "version" : "Latest",
     "type" : "context"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_pJbJsFwGEfCsv69Lkhwm1w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_yaA6IFycEfCsv69Lkhwm1w - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
