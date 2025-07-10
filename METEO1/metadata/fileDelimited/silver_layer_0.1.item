@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_5aggkFzMEfCsv69Lkhwm1w" name="silver_layer" dataPackage="_5aggkVzMEfCsv69Lkhwm1w" Server="Localhost 127.0.0.1" FilePath="C:/Users/Administrator/Documents/Talend/ressources/silver_layer/weather_silver_2025_07_09_15_54_31.csv" Format="WINDOWS" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" RemoveEmptyRow="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_5aggkVzMEfCsv69Lkhwm1w" name="default" dataManager="_5aggkFzMEfCsv69Lkhwm1w">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_5aggklzMEfCsv69Lkhwm1w" id="_wDj_UFzMEfCsv69Lkhwm1w" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5aggk1zMEfCsv69Lkhwm1w" label="region" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5agglFzMEfCsv69Lkhwm1w" label="date_update" length="28" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5agglVzMEfCsv69Lkhwm1w" label="current_folder" length="97" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5aggllzMEfCsv69Lkhwm1w" label="country" length="24" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5aggl1zMEfCsv69Lkhwm1w" label="localtime" length="16" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5aggmFzMEfCsv69Lkhwm1w" label="temperature_celsius" length="4" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5aggmVzMEfCsv69Lkhwm1w" label="temperature_farrendeih" length="4" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5aggmlzMEfCsv69Lkhwm1w" label="wind_speed_kph" length="4" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5aggm1zMEfCsv69Lkhwm1w" label="humidity" length="4" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
