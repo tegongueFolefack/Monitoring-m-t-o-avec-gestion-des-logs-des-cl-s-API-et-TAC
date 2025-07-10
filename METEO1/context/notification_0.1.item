@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_xaT68BLzEe2X1KTOOXgCJQ" confirmationNeeded="false" hide="false" name="demo">
+  <contextParameter xmi:id="_xaT68RLzEe2X1KTOOXgCJQ" comment="" name="emailTo" prompt="emailTo?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ftegongue@i-tracing.com"/>
+  <contextParameter xmi:id="_xaT68hLzEe2X1KTOOXgCJQ" comment="" name="emailFrom" prompt="emailFrom?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="fidelinetegonguefolefack@etu-digitalschool.paris"/>
+  <contextParameter xmi:id="_xaT68xLzEe2X1KTOOXgCJQ" comment="" name="emailUser" prompt="emailUser?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Tegongue Fideline"/>
+  <contextParameter xmi:id="_xaT69BLzEe2X1KTOOXgCJQ" comment="" name="emailPass" prompt="emailPass?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:hIQH630dzCCUwUcMHVkHVc364T69Yj5mqrifxOdqLcc1W55bWvFQrtN+JejdRa8="/>
+  <contextParameter xmi:id="_oUIOYF2QEfCi4IKqe_eT8A" comment="" name="host" prompt="host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="smtp.office365.com"/>
+  <contextParameter xmi:id="_7ku8YF2QEfCi4IKqe_eT8A" comment="" name="port" prompt="port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="587"/>
+</talendfile:ContextType>
