@@ -1,0 +1,48 @@
+{
+  "itemId" : "_6qTTMF46EfCzAewg5FrUpw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_8hyj0F47EfCzAewg5FrUpw",
+    "parameterList" : [ {
+      "id" : "_YC-TAF5fEfCzAewg5FrUpw",
+      "name" : "bronzeFolder"
+    }, {
+      "id" : "_M43H0F5bEfCzAewg5FrUpw",
+      "name" : "outputFile"
+    }, {
+      "id" : "_1znK4F5XEfCzAewg5FrUpw",
+      "name" : "reportName"
+    }, {
+      "id" : "_8iGF0V47EfCzAewg5FrUpw",
+      "name" : "sharepointFilePath"
+    }, {
+      "id" : "_SkVHwF5ZEfCzAewg5FrUpw",
+      "name" : "sheetName"
+    }, {
+      "id" : "_GqbPoF5bEfCzAewg5FrUpw",
+      "name" : "silverFolder"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_8hyj0F47EfCzAewg5FrUpw",
+    "parameterList" : [ {
+      "id" : "_YC-TAV5fEfCzAewg5FrUpw",
+      "name" : "bronzeFolder"
+    }, {
+      "id" : "_M43u4F5bEfCzAewg5FrUpw",
+      "name" : "outputFile"
+    }, {
+      "id" : "_2dZuwl5XEfCzAewg5FrUpw",
+      "name" : "reportName"
+    }, {
+      "id" : "_2dZuwV5XEfCzAewg5FrUpw",
+      "name" : "sharepointFilePath"
+    }, {
+      "id" : "_SkVHwV5ZEfCzAewg5FrUpw",
+      "name" : "sheetName"
+    }, {
+      "id" : "_GqbPoV5bEfCzAewg5FrUpw",
+      "name" : "silverFolder"
+    } ]
+  } ]
+}

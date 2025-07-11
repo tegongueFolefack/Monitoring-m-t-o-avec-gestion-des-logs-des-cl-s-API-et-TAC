@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_8iGF0F47EfCzAewg5FrUpw" confirmationNeeded="false" hide="true" name="Default">
+    <contextParameter xmi:id="_8iGF0V47EfCzAewg5FrUpw" comment="" name="sharepointFilePath" prompt="sharepointFilePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/Users/Administrator/i-tracing.com/Data Analytics &amp; Visualization - 2-Docs/ANON_Data.xlsx"/>
+    <contextParameter xmi:id="_1znK4F5XEfCzAewg5FrUpw" comment="" name="reportName" prompt="reportName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ADEO_alerts"/>
+    <contextParameter xmi:id="_SkVHwF5ZEfCzAewg5FrUpw" comment="" name="sheetName" prompt="sheetName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_GqbPoF5bEfCzAewg5FrUpw" comment="" name="silverFolder" prompt="silverFolder?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_M43H0F5bEfCzAewg5FrUpw" comment="" name="outputFile" prompt="outputFile?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_YC-TAF5fEfCzAewg5FrUpw" comment="" name="bronzeFolder" prompt="bronzeFolder?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_2dZuwF5XEfCzAewg5FrUpw" confirmationNeeded="false" hide="false" name="DEV">
+    <contextParameter xmi:id="_2dZuwV5XEfCzAewg5FrUpw" comment="" name="sharepointFilePath" prompt="sharepointFilePath?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/Users/Administrator/i-tracing.com/Data Analytics &amp; Visualization - 2-Docs/ANON_Data.xlsx"/>
+    <contextParameter xmi:id="_2dZuwl5XEfCzAewg5FrUpw" comment="" name="reportName" prompt="reportName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ADEO_alerts"/>
+    <contextParameter xmi:id="_SkVHwV5ZEfCzAewg5FrUpw" comment="" name="sheetName" prompt="sheetName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Alerts"/>
+    <contextParameter xmi:id="_GqbPoV5bEfCzAewg5FrUpw" comment="" name="silverFolder" prompt="silverFolder?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:\Users\Administrator\Documents\Talend\ressources\XSOAR\XSOAR_data\silver_layer"/>
+    <contextParameter xmi:id="_M43u4F5bEfCzAewg5FrUpw" comment="" name="outputFile" prompt="outputFile?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/ADEO_alerts-"/>
+    <contextParameter xmi:id="_YC-TAV5fEfCzAewg5FrUpw" comment="" name="bronzeFolder" prompt="bronzeFolder?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:\Users\Administrator\Documents\Talend\ressources\XSOAR\XSOAR_data\bronze_layer"/>
+  </talendfile:ContextType>
+</xmi:XMI>
